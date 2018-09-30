@@ -1,0 +1,334 @@
+//CS 3700 public class Deadlock { 
+    static class Friend { 
+        private final String name; 
+        public Friend(String name) { 
+            this.name = name; 
+        } 
+        public String getName() { 
+            return this.name; 
+        } 
+        public synchronized void bow(Friend bower) { 
+            System.out.format("%s: %s" 
+                + "  has bowed to me!%n",  
+                this.name, bower.getName()); 
+            bower.bowBack(this); 
+        } 
+        public synchronized void bowBack(Friend bower) { 
+            System.out.format("%s: %s" 
+                + " has bowed back to me!%n", 
+                this.name, bower.getName()); 
+        } 
+    } 
+ 
+    public static void main(String[] args) { 
+        final Friend alphonse = 
+            new Friend("Alphonse"); 
+        final Friend gaston = 
+            new Friend("Gaston"); 
+        new Thread(new Runnable() { 
+            public void run() { alphonse.bow(gaston); } 
+        }).start(); 
+        new Thread(new Runnable() { 
+            public void run() { gaston.bow(alphonse); } 
+        }).start(); 
+    } 
+}LECT 5 
+public class Deadlock { 
+    static class Friend { 
+        private final String name; 
+        public Friend(String name) { 
+            this.name = name; 
+        } 
+        public String getName() { 
+            return this.name; 
+        } 
+        public synchronized void bow(Friend bower) { 
+            System.out.format("%s: %s" 
+                + "  has bowed to me!%n",  
+                this.name, bower.getName()); 
+            bower.bowBack(this); 
+        } 
+        public synchronized void bowBack(Friend bower) { 
+            System.out.format("%s: %s" 
+                + " has bowed back to me!%n", 
+                this.name, bower.getName()); 
+        } 
+    } 
+ 
+    public static void main(String[] args) { 
+        final Friend alphonse = 
+            new Friend("Alphonse"); 
+        final Friend gaston = 
+            new Friend("Gaston"); 
+        new Thread(new Runnable() { 
+            public void run() { alphonse.bow(gaston); } 
+        }).start(); 
+        new Thread(new Runnable() { 
+            public void run() { gaston.bow(alphonse); } 
+        }).start(); 
+    } 
+} 
+//********************************************* 
+//Guarded Blocks  
+ 
+public void guardedJoy() { 
+    // Simple loop guard. Wastes processor time. Don't do this! 
+    while(!joy) {} 
+    System.out.println("Joy has been achieved!"); 
+} 
+ 
+//More effecient invoke(call) "Object.wait" to suspend thread until joy is set 
+public synchronized void guardedJoy() { 
+    // This guard only loops once for each special event, which may not 
+    // be the event we're waiting for. 
+    while(!joy) { 
+        try { 
+            wait(); 
+        } catch (InterruptedException e) {} 
+    } 
+    System.out.println("Joy and efficiency have been achieved!"); 
+} 
+ 
+//Some other thread will invoke this method 
+public synchronized notifyJoy() { 
+    joy = true; 
+    notifyAll(); 
+} 
+ 
+ 
+//*************************** 
+//Producer - Consumer test message example 
+public class Drop { 
+    // Message sent from producer 
+    // to consumer. 
+    private String message; 
+    // True if consumer should wait 
+    // for producer to send message, 
+    // false if producer should wait for 
+    // consumer to retrieve message. 
+    private boolean empty = true; 
+ 
+    public synchronized String take() { 
+        // Wait until message is 
+        // available. 
+        while (empty) { 
+            try { 
+                wait(); 
+            } catch (InterruptedException e) {} 
+        } 
+        // Toggle status. 
+        empty = true; 
+        // Notify producer that 
+        // status has changed. 
+        notifyAll(); 
+        return message; 
+    } 
+ 
+    public synchronized void put(String message) { 
+        // Wait until message has 
+        // been retrieved. 
+        while (!empty) { 
+            try {  
+                wait(); 
+            } catch (InterruptedException e) {} 
+        } 
+        // Toggle status. 
+        empty = false; 
+        // Store message. 
+        this.message = message; 
+        // Notify consumer that status 
+        // has changed. 
+        notifyAll(); 
+    } 
+} 
+ 
+// Producer Thread 
+import java.util.Random; 
+ 
+public class Producer implements Runnable { 
+    private Drop drop; 
+ 
+    public Producer(Drop drop) { 
+        this.drop = drop; 
+    } 
+ 
+    public void run() { 
+        String importantInfo[] = { 
+            "Mares eat oats", 
+            "Does eat oats", 
+            "Little lambs eat ivy", 
+            "A kid will eat ivy too" 
+        }; 
+        Random random = new Random(); 
+ 
+        for (int i = 0; 
+             i < importantInfo.length; 
+             i++) { 
+            drop.put(importantInfo[i]); 
+            try { 
+                Thread.sleep(random.nextInt(5000)); 
+            } catch (InterruptedException e) {} 
+        } 
+        drop.put("DONE"); 
+    } 
+} 
+ 
+//Consumer Thread 
+import java.util.Random; 
+ 
+public class Consumer implements Runnable { 
+    private Drop drop; 
+ 
+    public Consumer(Drop drop) { 
+        this.drop = drop; 
+    } 
+ 
+    public void run() { 
+        Random random = new Random(); 
+        for (String message = drop.take(); 
+             ! message.equals("DONE"); 
+             message = drop.take()) { 
+            System.out.format("MESSAGE RECEIVED: %s%n", message); 
+            try { 
+                Thread.sleep(random.nextInt(5000)); 
+            } catch (InterruptedException e) {} 
+        } 
+    } 
+} 
+//Main thread  
+public class ProducerConsumerExample { 
+    public static void main(String[] args) { 
+        Drop drop = new Drop(); 
+        (new Thread(new Producer(drop))).start(); 
+        (new Thread(new Consumer(drop))).start(); 
+    } 
+} 
+ 
+//*********************************************************** 
+//SynchronizedRGB  -- DONT RUN IN CLASS 
+ 
+public class SynchronizedRGB { 
+ 
+    // Values must be between 0 and 255. 
+    private int red; 
+    private int green; 
+    private int blue; 
+    private String name; 
+ 
+    private void check(int red, 
+                       int green, 
+                       int blue) { 
+        if (red < 0 || red > 255 
+            || green < 0 || green > 255 
+            || blue < 0 || blue > 255) { 
+            throw new IllegalArgumentException(); 
+        } 
+    } 
+ 
+    public SynchronizedRGB(int red, 
+                           int green, 
+                           int blue, 
+                           String name) { 
+        check(red, green, blue); 
+        this.red = red; 
+        this.green = green; 
+        this.blue = blue; 
+        this.name = name; 
+    } 
+ 
+    public void set(int red, 
+                    int green, 
+                    int blue, 
+                    String name) { 
+        check(red, green, blue); 
+        synchronized (this) { 
+            this.red = red; 
+            this.green = green; 
+            this.blue = blue; 
+            this.name = name; 
+        } 
+    } 
+ 
+    public synchronized int getRGB() { 
+        return ((red << 16) | (green << 8) | blue); 
+    } 
+ 
+    public synchronized String getName() { 
+        return name; 
+    } 
+ 
+    public synchronized void invert() { 
+        red = 255 - red; 
+        green = 255 - green; 
+        blue = 255 - blue; 
+        name = "Inverse of " + name; 
+    } 
+} 
+ 
+//ASSUME THREAD 1 RUNS 
+SynchronizedRGB color = 
+    new SynchronizedRGB(0, 0, 0, "Pitch Black"); 
+ 
+    THEN 
+     
+int myColorInt = color.getRGB();      //Statement 1 
+String myColorName = color.getName(); //Statement 2 
+ 
+//PROBLEM IF RAN AS  
+ 
+int myColorInt = color.getRGB();      //T1  -- Statement 1 
+color.set()                     //T2 -- Runs the method before T1 statement 2 
+String myColorName = color.getName(); // T1 --  Statement 2 
+ 
+//colors won't match 
+ 
+//ImmutableRGB --> have them work on it 
+ 
+ 
+ 
+ 
+final public class ImmutableRGB { 
+ 
+    // Values must be between 0 and 255. 
+    final private int red; 
+    final private int green; 
+    final private int blue; 
+    final private String name; 
+ 
+    private void check(int red, 
+                       int green, 
+                       int blue) { 
+        if (red < 0 || red > 255 
+            || green < 0 || green > 255 
+            || blue < 0 || blue > 255) { 
+            throw new IllegalArgumentException(); 
+        } 
+    } 
+ 
+    public ImmutableRGB(int red, 
+                        int green, 
+                        int blue, 
+                        String name) { 
+        check(red, green, blue); 
+        this.red = red; 
+        this.green = green; 
+        this.blue = blue; 
+        this.name = name; 
+    } 
+ 
+ 
+    public int getRGB() { 
+        return ((red << 16) | (green << 8) | blue); 
+    } 
+ 
+    public String getName() { 
+        return name; 
+    } 
+ 
+    public ImmutableRGB invert() { 
+        return new ImmutableRGB(255 - red, 
+                       255 - green, 
+                       255 - blue, 
+                       "Inverse of " + name); 
+    } 
+} 
