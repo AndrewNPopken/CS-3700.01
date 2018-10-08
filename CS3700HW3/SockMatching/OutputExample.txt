@@ -1,0 +1,509 @@
+Red Sock: Produced 1 of 38 Red Socks
+Orange Sock: Produced 1 of 84 Orange Socks
+Blue Sock: Produced 1 of 41 Blue Socks
+Green Sock: Produced 1 of 39 Green Socks
+Matching Thread: waiting for sock generators
+Green Sock: Produced 2 of 39 Green Socks
+Orange Sock: Produced 2 of 84 Orange Socks
+Red Sock: Produced 2 of 38 Red Socks
+Matching Thread: waiting for sock generators
+Blue Sock: Produced 2 of 41 Blue Socks
+Red Sock: Produced 3 of 38 Red Socks
+Orange Sock: Produced 3 of 84 Orange Socks
+Orange Sock: Produced 4 of 84 Orange Socks
+Green Sock: Produced 3 of 39 Green Socks
+Orange Sock: Produced 5 of 84 Orange Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 7
+Red Sock: Produced 4 of 38 Red Socks
+Red Sock: Produced 5 of 38 Red Socks
+Blue Sock: Produced 3 of 41 Blue Socks
+Blue Sock: Produced 4 of 41 Blue Socks
+Red Sock: Produced 6 of 38 Red Socks
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Red socks
+Orange Sock: Produced 6 of 84 Orange Socks
+Green Sock: Produced 4 of 39 Green Socks
+Orange Sock: Produced 7 of 84 Orange Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 14
+Red Sock: Produced 7 of 38 Red Socks
+Blue Sock: Produced 5 of 41 Blue Socks
+Blue Sock: Produced 6 of 41 Blue Socks
+Washer Thread: Destroyed Red socks
+Red Sock: Produced 8 of 38 Red Socks
+Red Sock: Produced 9 of 38 Red Socks
+Red Sock: Produced 10 of 38 Red Socks
+Red Sock: Produced 11 of 38 Red Socks
+Red Sock: Produced 12 of 38 Red Socks
+Matching Thread: waiting for sock destruction
+Matching Thread: Send Red Socks to Washer. Total inside queue: 23
+Orange Sock: Produced 8 of 84 Orange Socks
+Orange Sock: Produced 9 of 84 Orange Socks
+Green Sock: Produced 5 of 39 Green Socks
+Green Sock: Produced 6 of 39 Green Socks
+Orange Sock: Produced 10 of 84 Orange Socks
+Orange Sock: Produced 11 of 84 Orange Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: waiting for sock destruction
+Red Sock: Produced 13 of 38 Red Socks
+Blue Sock: Produced 7 of 41 Blue Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 28
+Red Sock: Produced 14 of 38 Red Socks
+Orange Sock: Produced 12 of 84 Orange Socks
+Orange Sock: Produced 13 of 84 Orange Socks
+Orange Sock: Produced 14 of 84 Orange Socks
+Green Sock: Produced 7 of 39 Green Socks
+Green Sock: Produced 8 of 39 Green Socks
+Green Sock: Produced 9 of 39 Green Socks
+Orange Sock: Produced 15 of 84 Orange Socks
+Washer Thread: Destroyed Red socks
+Red Sock: Produced 15 of 38 Red Socks
+Matching Thread: waiting for sock destruction
+Blue Sock: Produced 8 of 41 Blue Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 36
+Red Sock: Produced 16 of 38 Red Socks
+Washer Thread: Destroyed Red socks
+Orange Sock: Produced 16 of 84 Orange Socks
+Green Sock: Produced 10 of 39 Green Socks
+Orange Sock: Produced 17 of 84 Orange Socks
+Red Sock: Produced 17 of 38 Red Socks
+Matching Thread: waiting for sock destruction
+Matching Thread: Send Red Socks to Washer. Total inside queue: 40
+Matching Thread: waiting for sock destruction
+Blue Sock: Produced 9 of 41 Blue Socks
+Washer Thread: Destroyed Red socks
+Red Sock: Produced 18 of 38 Red Socks
+Orange Sock: Produced 18 of 84 Orange Socks
+Green Sock: Produced 11 of 39 Green Socks
+Orange Sock: Produced 19 of 84 Orange Socks
+Red Sock: Produced 19 of 38 Red Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 39
+Blue Sock: Produced 10 of 41 Blue Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: waiting for sock destruction
+Red Sock: Produced 20 of 38 Red Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 43
+Orange Sock: Produced 20 of 84 Orange Socks
+Green Sock: Produced 12 of 39 Green Socks
+Orange Sock: Produced 21 of 84 Orange Socks
+Orange Sock: Produced 22 of 84 Orange Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: waiting for sock destruction
+Red Sock: Produced 21 of 38 Red Socks
+Blue Sock: Produced 11 of 41 Blue Socks
+Red Sock: Produced 22 of 38 Red Socks
+Blue Sock: Produced 12 of 41 Blue Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 46
+Orange Sock: Produced 23 of 84 Orange Socks
+Green Sock: Produced 13 of 39 Green Socks
+Orange Sock: Produced 24 of 84 Orange Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: waiting for sock destruction
+Blue Sock: Produced 13 of 41 Blue Socks
+Red Sock: Produced 23 of 38 Red Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 52
+Matching Thread: waiting for sock destruction
+Blue Sock: Produced 14 of 41 Blue Socks
+Blue Sock: Produced 15 of 41 Blue Socks
+Orange Sock: Produced 25 of 84 Orange Socks
+Orange Sock: Produced 26 of 84 Orange Socks
+Green Sock: Produced 14 of 39 Green Socks
+Green Sock: Produced 15 of 39 Green Socks
+Orange Sock: Produced 27 of 84 Orange Socks
+Orange Sock: Produced 28 of 84 Orange Socks
+Blue Sock: Produced 16 of 41 Blue Socks
+Blue Sock: Produced 17 of 41 Blue Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 61
+Red Sock: Produced 24 of 38 Red Socks
+Blue Sock: Produced 18 of 41 Blue Socks
+Blue Sock: Produced 19 of 41 Blue Socks
+Blue Sock: Produced 20 of 41 Blue Socks
+Blue Sock: Produced 21 of 41 Blue Socks
+Blue Sock: Produced 22 of 41 Blue Socks
+Blue Sock: Produced 23 of 41 Blue Socks
+Blue Sock: Produced 24 of 41 Blue Socks
+Blue Sock: Produced 25 of 41 Blue Socks
+Blue Sock: Produced 26 of 41 Blue Socks
+Matching Thread: waiting for sock destruction
+Orange Sock: Produced 29 of 84 Orange Socks
+Orange Sock: Produced 30 of 84 Orange Socks
+Green Sock: Produced 16 of 39 Green Socks
+Green Sock: Produced 17 of 39 Green Socks
+Green Sock: Produced 18 of 39 Green Socks
+Orange Sock: Produced 31 of 84 Orange Socks
+Washer Thread: Destroyed Red socks
+Blue Sock: Produced 27 of 41 Blue Socks
+Red Sock: Produced 25 of 38 Red Socks
+Red Sock: Produced 26 of 38 Red Socks
+Red Sock: Produced 27 of 38 Red Socks
+Blue Sock: Produced 28 of 41 Blue Socks
+Orange Sock: Produced 32 of 84 Orange Socks
+Green Sock: Produced 19 of 39 Green Socks
+Green Sock: Produced 20 of 39 Green Socks
+Orange Sock: Produced 33 of 84 Orange Socks
+Orange Sock: Produced 34 of 84 Orange Socks
+Blue Sock: Produced 29 of 41 Blue Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 75
+Red Sock: Produced 28 of 38 Red Socks
+Red Sock: Produced 29 of 38 Red Socks
+Red Sock: Produced 30 of 38 Red Socks
+Matching Thread: waiting for sock destruction
+Orange Sock: Produced 35 of 84 Orange Socks
+Orange Sock: Produced 36 of 84 Orange Socks
+Green Sock: Produced 21 of 39 Green Socks
+Green Sock: Produced 22 of 39 Green Socks
+Green Sock: Produced 23 of 39 Green Socks
+Green Sock: Produced 24 of 39 Green Socks
+Green Sock: Produced 25 of 39 Green Socks
+Orange Sock: Produced 37 of 84 Orange Socks
+Orange Sock: Produced 38 of 84 Orange Socks
+Washer Thread: Destroyed Red socks
+Blue Sock: Produced 30 of 41 Blue Socks
+Red Sock: Produced 31 of 38 Red Socks
+Red Sock: Produced 32 of 38 Red Socks
+Red Sock: Produced 33 of 38 Red Socks
+Red Sock: Produced 34 of 38 Red Socks
+Red Sock: Produced 35 of 38 Red Socks
+Red Sock: Produced 36 of 38 Red Socks
+Blue Sock: Produced 31 of 41 Blue Socks
+Blue Sock: Produced 32 of 41 Blue Socks
+Blue Sock: Produced 33 of 41 Blue Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 96
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Red socks
+Blue Sock: Produced 34 of 41 Blue Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 104
+Orange Sock: Produced 39 of 84 Orange Socks
+Green Sock: Produced 26 of 39 Green Socks
+Green Sock: Produced 27 of 39 Green Socks
+Orange Sock: Produced 40 of 84 Orange Socks
+Orange Sock: Produced 41 of 84 Orange Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: waiting for sock destruction
+Matching Thread: Send Red Socks to Washer. Total inside queue: 108
+Blue Sock: Produced 35 of 41 Blue Socks
+Red Sock: Produced 37 of 38 Red Socks
+Blue Sock: Produced 36 of 41 Blue Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: waiting for sock destruction
+Orange Sock: Produced 42 of 84 Orange Socks
+Orange Sock: Produced 43 of 84 Orange Socks
+Orange Sock: Produced 44 of 84 Orange Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 111
+Matching Thread: waiting for sock destruction
+Green Sock: Produced 28 of 39 Green Socks
+Washer Thread: Destroyed Red socks
+Orange Sock: Produced 45 of 84 Orange Socks
+Blue Sock: Produced 37 of 41 Blue Socks
+Red Sock: Produced 38 of 38 Red Socks
+Red Sock Generator: done
+Blue Sock: Produced 38 of 41 Blue Socks
+Orange Sock: Produced 46 of 84 Orange Socks
+Orange Sock: Produced 47 of 84 Orange Socks
+Blue Sock: Produced 39 of 41 Blue Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 111
+Blue Sock: Produced 40 of 41 Blue Socks
+Matching Thread: waiting for sock destruction
+Green Sock: Produced 29 of 39 Green Socks
+Green Sock: Produced 30 of 39 Green Socks
+Blue Sock: Produced 41 of 41 Blue Socks
+Washer Thread: Destroyed Red socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 120
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Red socks
+Orange Sock: Produced 48 of 84 Orange Socks
+Matching Thread: Send Red Socks to Washer. Total inside queue: 118
+Blue Sock Generator: done
+Washer Thread: Destroyed Red socks
+Matching Thread: waiting for sock destruction
+Green Sock: Produced 31 of 39 Green Socks
+Orange Sock: Produced 49 of 84 Orange Socks
+Green Sock: Produced 32 of 39 Green Socks
+Green Sock: Produced 33 of 39 Green Socks
+Orange Sock: Produced 50 of 84 Orange Socks
+Orange Sock: Produced 51 of 84 Orange Socks
+Orange Sock: Produced 52 of 84 Orange Socks
+Orange Sock: Produced 53 of 84 Orange Socks
+Orange Sock: Produced 54 of 84 Orange Socks
+Green Sock: Produced 34 of 39 Green Socks
+Green Sock: Produced 35 of 39 Green Socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 118
+Matching Thread: waiting for sock destruction
+Green Sock: Produced 36 of 39 Green Socks
+Orange Sock: Produced 55 of 84 Orange Socks
+Orange Sock: Produced 56 of 84 Orange Socks
+Orange Sock: Produced 57 of 84 Orange Socks
+Orange Sock: Produced 58 of 84 Orange Socks
+Orange Sock: Produced 59 of 84 Orange Socks
+Orange Sock: Produced 60 of 84 Orange Socks
+Orange Sock: Produced 61 of 84 Orange Socks
+Green Sock: Produced 37 of 39 Green Socks
+Green Sock: Produced 38 of 39 Green Socks
+Washer Thread: Destroyed Green socks
+Green Sock: Produced 39 of 39 Green Socks
+Orange Sock: Produced 62 of 84 Orange Socks
+Orange Sock: Produced 63 of 84 Orange Socks
+Orange Sock: Produced 64 of 84 Orange Socks
+Orange Sock: Produced 65 of 84 Orange Socks
+Orange Sock: Produced 66 of 84 Orange Socks
+Orange Sock: Produced 67 of 84 Orange Socks
+Green Sock Generator: done
+Matching Thread: Send Green Socks to Washer. Total inside queue: 136
+Orange Sock: Produced 68 of 84 Orange Socks
+Matching Thread: waiting for sock destruction
+Orange Sock: Produced 69 of 84 Orange Socks
+Orange Sock: Produced 70 of 84 Orange Socks
+Orange Sock: Produced 71 of 84 Orange Socks
+Orange Sock: Produced 72 of 84 Orange Socks
+Orange Sock: Produced 73 of 84 Orange Socks
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 147
+Matching Thread: waiting for sock destruction
+Orange Sock: Produced 74 of 84 Orange Socks
+Washer Thread: Destroyed Green socks
+Orange Sock: Produced 75 of 84 Orange Socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 146
+Matching Thread: waiting for sock destruction
+Orange Sock: Produced 76 of 84 Orange Socks
+Washer Thread: Destroyed Green socks
+Orange Sock: Produced 77 of 84 Orange Socks
+Orange Sock: Produced 78 of 84 Orange Socks
+Orange Sock: Produced 79 of 84 Orange Socks
+Orange Sock: Produced 80 of 84 Orange Socks
+Orange Sock: Produced 81 of 84 Orange Socks
+Orange Sock: Produced 82 of 84 Orange Socks
+Orange Sock: Produced 83 of 84 Orange Socks
+Orange Sock: Produced 84 of 84 Orange Socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 151
+Orange Sock Generator: done
+Washer Thread: Destroyed Green socks
+Matching Thread: waiting for sock destruction
+Matching Thread: Send Green Socks to Washer. Total inside queue: 152
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 150
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 148
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 146
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 144
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 142
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 140
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 138
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 136
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 134
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 132
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 130
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 128
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Green Socks to Washer. Total inside queue: 126
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Green socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 124
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 122
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 120
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 118
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 116
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 114
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 112
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 110
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 108
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 106
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 104
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 102
+Washer Thread: Destroyed Blue socks
+Matching Thread: waiting for sock destruction
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 100
+Washer Thread: Destroyed Blue socks
+Matching Thread: waiting for sock destruction
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 98
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 96
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 94
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 92
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 90
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 88
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Blue Socks to Washer. Total inside queue: 86
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Blue socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 84
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 82
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 80
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 78
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 76
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 74
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 72
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 70
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 68
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 66
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 64
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 62
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 60
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 58
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 56
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 54
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 52
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 50
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 48
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 46
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 44
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 42
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 40
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 38
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 36
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 34
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 32
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 30
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 28
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 26
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 24
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 22
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 20
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 18
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 16
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 14
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 12
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 10
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 8
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 6
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 4
+Matching Thread: waiting for sock destruction
+Washer Thread: Destroyed Orange socks
+Matching Thread: Send Orange Socks to Washer. Total inside queue: 2
+Washer Thread: Destroyed Orange socks
+Matching Thread: waiting for sock destruction
+Matching Thread: done
+Washer Thread: done
+BUILD SUCCESSFUL (total time: 1 second)
