@@ -1,0 +1,486 @@
+run:
+Thread-0: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-3: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-4: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Failed to add, buffer is full.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-1: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-1: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Failed to add, buffer is full.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-0: Add to buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-6: Remove from buffer successful.
+Thread-3: Remove from buffer successful.
+Thread-5: Remove from buffer successful.
+Thread-2: Remove from buffer successful.
+Thread-4: Remove from buffer successful.
+Thread-6: Failed to remove, buffer is empty.
+Thread-3: Failed to remove, buffer is empty.
+Thread-5: Failed to remove, buffer is empty.
+Thread-2: Failed to remove, buffer is empty.
+Thread-4: Failed to remove, buffer is empty.
+Thread-5: Failed to remove, buffer is empty.
+Thread-6: Failed to remove, buffer is empty.
+Thread-3: Failed to remove, buffer is empty.
+Thread-2: Failed to remove, buffer is empty.
+Thread-4: Failed to remove, buffer is empty.
+Thread-6: Failed to remove, buffer is empty.
+Thread-5: Failed to remove, buffer is empty.
+Thread-3: Failed to remove, buffer is empty.
+Thread-3: Ending.
+Thread-6: Ending.
+Thread-5: Ending.
+Thread-4: Failed to remove, buffer is empty.
+Thread-4: Ending.
+Thread-2: Failed to remove, buffer is empty.
+Thread-2: Ending.
+BUILD SUCCESSFUL (total time: 42 seconds)
