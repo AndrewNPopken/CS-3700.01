@@ -1,0 +1,253 @@
+run:
+Attempting to establish connections
+Waiting for other players
+Waiting for other players
+Connections established successfully
+I am Player 1
+Enter number of rounds to play: 30
+
+Round 1:
+Player 1 Chose: Rock
+Player 2 Chose: Scissors
+Player 3 Chose: Paper
+Player 1 Current Points: 0
+Player 2 Current Points: 0
+Player 3 Current Points: 0
+
+Round 2:
+Player 1 Chose: Scissors
+Player 2 Chose: Rock
+Player 3 Chose: Rock
+Player 1 Current Points: 0
+Player 2 Current Points: 1
+Player 3 Current Points: 1
+
+Round 3:
+Player 1 Chose: Paper
+Player 2 Chose: Rock
+Player 3 Chose: Rock
+Player 1 Current Points: 2
+Player 2 Current Points: 1
+Player 3 Current Points: 1
+
+Round 4:
+Player 1 Chose: Scissors
+Player 2 Chose: Paper
+Player 3 Chose: Rock
+Player 1 Current Points: 2
+Player 2 Current Points: 1
+Player 3 Current Points: 1
+
+Round 5:
+Player 1 Chose: Paper
+Player 2 Chose: Rock
+Player 3 Chose: Scissors
+Player 1 Current Points: 2
+Player 2 Current Points: 1
+Player 3 Current Points: 1
+
+Round 6:
+Player 1 Chose: Rock
+Player 2 Chose: Paper
+Player 3 Chose: Scissors
+Player 1 Current Points: 2
+Player 2 Current Points: 1
+Player 3 Current Points: 1
+
+Round 7:
+Player 1 Chose: Rock
+Player 2 Chose: Scissors
+Player 3 Chose: Paper
+Player 1 Current Points: 2
+Player 2 Current Points: 1
+Player 3 Current Points: 1
+
+Round 8:
+Player 1 Chose: Paper
+Player 2 Chose: Scissors
+Player 3 Chose: Scissors
+Player 1 Current Points: 2
+Player 2 Current Points: 2
+Player 3 Current Points: 2
+
+Round 9:
+Player 1 Chose: Paper
+Player 2 Chose: Scissors
+Player 3 Chose: Paper
+Player 1 Current Points: 2
+Player 2 Current Points: 4
+Player 3 Current Points: 2
+
+Round 10:
+Player 1 Chose: Paper
+Player 2 Chose: Paper
+Player 3 Chose: Scissors
+Player 1 Current Points: 2
+Player 2 Current Points: 4
+Player 3 Current Points: 4
+
+Round 11:
+Player 1 Chose: Paper
+Player 2 Chose: Scissors
+Player 3 Chose: Paper
+Player 1 Current Points: 2
+Player 2 Current Points: 6
+Player 3 Current Points: 4
+
+Round 12:
+Player 1 Chose: Scissors
+Player 2 Chose: Rock
+Player 3 Chose: Scissors
+Player 1 Current Points: 2
+Player 2 Current Points: 8
+Player 3 Current Points: 4
+
+Round 13:
+Player 1 Chose: Paper
+Player 2 Chose: Rock
+Player 3 Chose: Paper
+Player 1 Current Points: 3
+Player 2 Current Points: 8
+Player 3 Current Points: 5
+
+Round 14:
+Player 1 Chose: Scissors
+Player 2 Chose: Paper
+Player 3 Chose: Rock
+Player 1 Current Points: 3
+Player 2 Current Points: 8
+Player 3 Current Points: 5
+
+Round 15:
+Player 1 Chose: Paper
+Player 2 Chose: Scissors
+Player 3 Chose: Scissors
+Player 1 Current Points: 3
+Player 2 Current Points: 9
+Player 3 Current Points: 6
+
+Round 16:
+Player 1 Chose: Paper
+Player 2 Chose: Rock
+Player 3 Chose: Scissors
+Player 1 Current Points: 3
+Player 2 Current Points: 9
+Player 3 Current Points: 6
+
+Round 17:
+Player 1 Chose: Scissors
+Player 2 Chose: Paper
+Player 3 Chose: Paper
+Player 1 Current Points: 5
+Player 2 Current Points: 9
+Player 3 Current Points: 6
+
+Round 18:
+Player 1 Chose: Paper
+Player 2 Chose: Paper
+Player 3 Chose: Scissors
+Player 1 Current Points: 5
+Player 2 Current Points: 9
+Player 3 Current Points: 8
+
+Round 19:
+Player 1 Chose: Rock
+Player 2 Chose: Scissors
+Player 3 Chose: Scissors
+Player 1 Current Points: 7
+Player 2 Current Points: 9
+Player 3 Current Points: 8
+
+Round 20:
+Player 1 Chose: Paper
+Player 2 Chose: Scissors
+Player 3 Chose: Scissors
+Player 1 Current Points: 7
+Player 2 Current Points: 10
+Player 3 Current Points: 9
+
+Round 21:
+Player 1 Chose: Paper
+Player 2 Chose: Paper
+Player 3 Chose: Rock
+Player 1 Current Points: 8
+Player 2 Current Points: 11
+Player 3 Current Points: 9
+
+Round 22:
+Player 1 Chose: Rock
+Player 2 Chose: Paper
+Player 3 Chose: Scissors
+Player 1 Current Points: 8
+Player 2 Current Points: 11
+Player 3 Current Points: 9
+
+Round 23:
+Player 1 Chose: Paper
+Player 2 Chose: Rock
+Player 3 Chose: Paper
+Player 1 Current Points: 9
+Player 2 Current Points: 11
+Player 3 Current Points: 10
+
+Round 24:
+Player 1 Chose: Scissors
+Player 2 Chose: Rock
+Player 3 Chose: Scissors
+Player 1 Current Points: 9
+Player 2 Current Points: 13
+Player 3 Current Points: 10
+
+Round 25:
+Player 1 Chose: Rock
+Player 2 Chose: Scissors
+Player 3 Chose: Rock
+Player 1 Current Points: 10
+Player 2 Current Points: 13
+Player 3 Current Points: 11
+
+Round 26:
+Player 1 Chose: Scissors
+Player 2 Chose: Paper
+Player 3 Chose: Rock
+Player 1 Current Points: 10
+Player 2 Current Points: 13
+Player 3 Current Points: 11
+
+Round 27:
+Player 1 Chose: Scissors
+Player 2 Chose: Scissors
+Player 3 Chose: Paper
+Player 1 Current Points: 11
+Player 2 Current Points: 14
+Player 3 Current Points: 11
+
+Round 28:
+Player 1 Chose: Rock
+Player 2 Chose: Scissors
+Player 3 Chose: Scissors
+Player 1 Current Points: 13
+Player 2 Current Points: 14
+Player 3 Current Points: 11
+
+Round 29:
+Player 1 Chose: Paper
+Player 2 Chose: Scissors
+Player 3 Chose: Scissors
+Player 1 Current Points: 13
+Player 2 Current Points: 15
+Player 3 Current Points: 12
+
+Round 30:
+Player 1 Chose: Paper
+Player 2 Chose: Paper
+Player 3 Chose: Rock
+Player 1 Current Points: 14
+Player 2 Current Points: 16
+Player 3 Current Points: 12
+
+Final Scores: 
+Player 1: 14
+Player 2: 16
+Player 3: 12
+BUILD SUCCESSFUL (total time: 12 seconds)
